@@ -1,4 +1,4 @@
-from fast_deploy import __version__
+from typer_template import __version__
 
 
 def test_version():
